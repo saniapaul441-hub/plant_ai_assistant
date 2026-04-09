@@ -1,0 +1,181 @@
+{
+  "faqs": [
+    {
+      "id": "faq_001",
+      "tags": ["watering", "water", "irrigation", "dry", "moisture"],
+      "question": "How often should I water my plants?",
+      "answer": "Watering frequency depends on the crop and season. Most vegetable crops need watering every 2-3 days in summer and every 5-7 days in winter. Always check soil moisture by inserting your finger 2 inches deep — if it feels dry, water immediately. Avoid overwatering as it causes root rot."
+    },
+    {
+      "id": "faq_002",
+      "tags": ["fertilizer", "nutrients", "npk", "urea", "manure", "growth"],
+      "question": "What fertilizer is best for vegetable crops?",
+      "answer": "For most vegetable crops, use NPK 10-26-26 at sowing time and urea (46% nitrogen) as top dressing 25-30 days after sowing. Organic options: well-decomposed cow dung manure (5-10 tonnes/acre) improves soil health. For Punjab/North India: apply DAP at 50 kg/acre at sowing for strong root development."
+    },
+    {
+      "id": "faq_003",
+      "tags": ["pesticide", "pest", "insect", "bug", "spray", "attack"],
+      "question": "How do I control pests on my crops?",
+      "answer": "First identify the pest. For sucking pests (aphids, whitefly): spray Imidacloprid 17.8 SL at 0.5 ml/litre water. For chewing pests (caterpillars, beetles): use Chlorpyrifos 20 EC at 2 ml/litre. Organic option: Neem oil spray (5 ml/litre) is effective and safe. Always spray in evening to avoid burning leaves."
+    },
+    {
+      "id": "faq_004",
+      "tags": ["fungus", "fungal", "blight", "rust", "mold", "mildew", "rot"],
+      "question": "How do I treat fungal disease on plants?",
+      "answer": "For fungal diseases: remove and destroy infected plant parts first. Spray Mancozeb 75 WP at 2.5 g/litre water or Carbendazim 50 WP at 1 g/litre. For powdery mildew: spray Sulfur 80 WP at 3 g/litre. Repeat every 10-14 days. Improve air circulation by proper spacing. Avoid overhead irrigation."
+    },
+    {
+      "id": "faq_005",
+      "tags": ["yellow", "yellowing", "leaves", "chlorosis", "pale"],
+      "question": "Why are my plant leaves turning yellow?",
+      "answer": "Yellow leaves can mean: (1) Nitrogen deficiency — apply urea 1% spray or top-dress with urea. (2) Overwatering — reduce irrigation, improve drainage. (3) Iron deficiency — spray Ferrous Sulfate 0.5% solution. (4) Viral disease — remove infected plants, control insect vectors. Check roots for root rot (brown mushy roots = overwatering problem)."
+    },
+    {
+      "id": "faq_006",
+      "tags": ["soil", "ph", "acid", "alkaline", "test", "land preparation"],
+      "question": "How do I prepare soil for farming?",
+      "answer": "Good soil preparation: (1) Deep plough 20-25 cm depth before sowing. (2) Ideal soil pH is 6.0-7.5 for most crops. If acidic (pH<6): add lime at 100-200 kg/acre. If alkaline (pH>8): add gypsum at 200 kg/acre. (3) Add 4-5 tonnes/acre of farmyard manure (FYM) before final ploughing. (4) Level the field for uniform irrigation."
+    },
+    {
+      "id": "faq_007",
+      "tags": ["wheat", "gehun", "sowing", "rabi", "punjab"],
+      "question": "What is the best time to sow wheat in Punjab?",
+      "answer": "In Punjab, sow wheat between November 1-25 for best yields. Timely sowing (1-15 Nov) gives 20-25% higher yield than late sowing. Use HD-2967, PBW-343 or PBW-502 varieties. Seed rate: 40-45 kg/acre. Apply DAP 50 kg + MOP 25 kg/acre at sowing. First irrigation at 20-25 days after sowing (crown root initiation stage)."
+    },
+    {
+      "id": "faq_008",
+      "tags": ["rice", "paddy", "dhan", "kharif", "transplant"],
+      "question": "How do I grow rice/paddy successfully?",
+      "answer": "For paddy in Punjab: (1) Nursery sowing in May. (2) Transplant 25-30 day old seedlings in June. (3) Maintain 2-5 cm standing water during vegetative stage. (4) Apply NPK 120:60:40 kg/hectare — split urea in 3 doses. (5) Watch for Brown Plant Hopper (BPH) and blast disease. (6) Harvest when 80-85% grains turn golden."
+    },
+    {
+      "id": "faq_009",
+      "tags": ["tomato", "tamatar", "blight", "wilt", "disease"],
+      "question": "How do I protect tomato plants from disease?",
+      "answer": "Common tomato diseases: (1) Early Blight — spray Mancozeb 2.5 g/litre every 10 days. (2) Late Blight — use Metalaxyl+Mancozeb 2.5 g/litre. (3) Fusarium Wilt — no cure, remove infected plants, use resistant varieties. (4) Leaf Curl Virus — control whitefly with Imidacloprid. Stake plants properly for air circulation. Avoid wetting leaves while irrigating."
+    },
+    {
+      "id": "faq_010",
+      "tags": ["potato", "aloo", "scab", "blight", "storage"],
+      "question": "What diseases affect potatoes and how to treat them?",
+      "answer": "Key potato diseases: (1) Late Blight (most serious) — spray Metalaxyl+Mancozeb 2.5 g/litre at first sign. (2) Common Scab — maintain soil pH 5.0-5.2, avoid fresh manure. (3) Black Scurf — treat seed with Carbendazim before planting. Use certified disease-free seed potatoes. Harvest in dry weather to avoid storage rots."
+    },
+    {
+      "id": "faq_011",
+      "tags": ["organic", "natural", "neem", "bio", "organic farming"],
+      "question": "What are good organic treatments for plant disease?",
+      "answer": "Effective organic treatments: (1) Neem oil 5 ml/litre — controls most pests and fungal diseases. (2) Garlic extract — blend 100g garlic in 1 litre water, filter and spray for pest control. (3) Cow urine — dilute 1:10 with water, spray for fungal control. (4) Trichoderma viride — apply 4 kg/acre in soil for root disease prevention. (5) Biopesticide Beauveria bassiana for insect control."
+    },
+    {
+      "id": "faq_012",
+      "tags": ["drip", "irrigation", "water saving", "micro irrigation"],
+      "question": "How does drip irrigation help farmers?",
+      "answer": "Drip irrigation benefits: (1) Saves 40-60% water compared to flood irrigation. (2) Delivers nutrients directly to root zone (fertigation). (3) Reduces weed growth between rows. (4) Less disease as leaves stay dry. In Punjab, government gives 50-80% subsidy on drip systems. Contact your Agriculture Department office for subsidy application."
+    },
+    {
+      "id": "faq_013",
+      "tags": ["msp", "price", "government", "subsidy", "market", "sell"],
+      "question": "Where can I sell my crops and get good prices?",
+      "answer": "Options to sell crops: (1) APMC Mandi — sell at Minimum Support Price (MSP) for wheat, rice. (2) FPO (Farmer Producer Organizations) — better collective bargaining. (3) e-NAM (National Agriculture Market) — online trading platform. (4) Contract farming with companies for guaranteed prices. Check MSP rates at agmarknet.gov.in or your local Krishi Vigyan Kendra (KVK)."
+    },
+    {
+      "id": "faq_014",
+      "tags": ["compost", "vermicompost", "organic manure", "decompose"],
+      "question": "How do I make compost at home/farm?",
+      "answer": "Farm compost method: (1) Collect crop residue, kitchen waste, cow dung in a pit (10x5x3 ft). (2) Add a thin layer of soil between every 6-inch layer of organic material. (3) Sprinkle water to maintain moisture (40-50%). (4) Turn pile every 15 days for aeration. (5) Ready in 60-90 days — dark, crumbly, earthy-smelling compost. Apply 5-10 tonnes/acre before sowing."
+    },
+    {
+      "id": "faq_015",
+      "tags": ["seed", "variety", "hybrid", "selection", "sowing"],
+      "question": "How do I select the right seed variety?",
+      "answer": "Seed selection tips: (1) Use certified seeds from government outlets or registered dealers. (2) Choose disease-resistant varieties for your region. (3) Prefer hybrid seeds for commercial crops (higher yield, but must buy each season). (4) Check seed germination before sowing — soak 100 seeds in water, at least 85 must germinate. (5) Contact your local Krishi Vigyan Kendra for region-specific variety recommendations."
+    },
+    {
+      "id": "faq_016",
+      "tags": ["apple", "scab", "cedar rust", "black rot", "fruit"],
+      "question": "What diseases commonly affect apple trees?",
+      "answer": "Apple tree diseases: (1) Apple Scab — brown/black spots on leaves and fruit. Spray Captan 50 WP at 2 g/litre from bud burst stage every 10-14 days. (2) Cedar Apple Rust — orange spots on leaves. Use Myclobutanil or Fenarimol fungicide. (3) Black Rot — dark spots with purple borders. Prune infected wood, apply copper fungicide. Rake and destroy fallen leaves to reduce disease carry-over."
+    },
+    {
+      "id": "faq_017",
+      "tags": ["drought", "rain", "climate", "weather", "dry spell"],
+      "question": "How do I protect crops during drought or dry spells?",
+      "answer": "Drought management: (1) Apply mulching (straw/plastic) to conserve soil moisture. (2) Irrigate in evening to reduce evaporation losses. (3) Use anti-transpirants like Kaolin clay spray on leaves. (4) Provide light, frequent irrigations rather than heavy flooding. (5) Grow drought-tolerant varieties if dry spells are frequent. (6) Intercropping with legumes improves soil water retention."
+    },
+    {
+      "id": "faq_018",
+      "tags": ["spray", "timing", "morning", "evening", "when to spray"],
+      "question": "What is the best time to spray pesticides or fungicides?",
+      "answer": "Best spray timing: (1) Early morning (6-9 AM) or evening (4-7 PM) — avoid hot midday hours. (2) Never spray before rain — it will wash away the chemical. (3) Avoid spraying when wind speed is high (drops drift to wrong areas). (4) For systemic pesticides, spray 24 hours before expected rain if urgent. (5) Always wear protective gloves and mask while spraying. Wait 7-14 days after spraying before harvesting (check label for pre-harvest interval)."
+    },
+    {
+      "id": "faq_019",
+      "tags": ["crop rotation", "rotation", "same crop", "soil health", "next season"],
+      "question": "Why is crop rotation important and how to do it?",
+      "answer": "Crop rotation benefits: (1) Breaks pest and disease cycles. (2) Improves soil fertility — legumes fix nitrogen. (3) Reduces weed problems. Simple rotation plan: Wheat → Paddy → Mustard (North India). Or: Tomato → Onion → Maize → Potato (vegetable rotation). Never grow the same family of crops in the same field 2 years in a row. Add one legume (moong, lentil, groundnut) in the rotation every 2-3 years."
+    },
+    {
+      "id": "faq_020",
+      "tags": ["plant growth", "slow growth", "stunted", "not growing", "small plants"],
+      "question": "Why are my plants growing slowly or look stunted?",
+      "answer": "Stunted growth causes: (1) Nutrient deficiency — do a soil test, apply missing nutrients. (2) Root damage from nematodes — apply Carbofuran 3G or Neem cake in soil. (3) Soil compaction — deep plough and add organic matter. (4) Virus infection — remove infected plants, no cure available. (5) Poor drainage — make raised beds or improve field leveling. (6) Wrong soil pH — test pH and correct with lime or gypsum."
+    }
+  ],
+  "disease_qa": {
+    "Apple Cedar Rust": {
+      "symptoms": "Orange-yellow spots on upper leaf surface, tube-like structures on underside of leaves.",
+      "cause": "Fungal pathogen Gymnosporangium juniperi-virginianae, requires both apple and cedar/juniper trees nearby.",
+      "organic_treatment": "Neem oil spray 5 ml/litre every 7-10 days. Remove nearby juniper trees if possible.",
+      "chemical_treatment": "Myclobutanil (Rally 40WP) at 0.5 g/litre or Fenarimol fungicide every 10 days.",
+      "prevention": "Plant resistant apple varieties. Remove infected leaves immediately. Do not plant cedars near apple orchard.",
+      "severity_guide": "Low: few spots, spray preventively. Medium: many leaves affected, treat immediately. High: defoliation occurring, urgent treatment + remove heavily infected branches."
+    },
+    "Apple Black Rot": {
+      "symptoms": "Dark brown to black circular spots on leaves with purple border. Fruit shows dark rotting.",
+      "cause": "Fungus Botryosphaeria obtusa, survives in dead wood and mummified fruit.",
+      "organic_treatment": "Copper-based spray (Bordeaux mixture 1%) every 14 days. Remove all mummified fruit.",
+      "chemical_treatment": "Captan 50 WP at 2 g/litre or Thiophanate-methyl 70 WP at 1 g/litre.",
+      "prevention": "Prune dead/infected wood in winter. Remove mummified fruits. Improve air circulation by proper pruning.",
+      "severity_guide": "Low: a few spots, prune and spray. Medium: multiple branches affected, aggressive pruning needed. High: whole tree affected, consult agriculture officer."
+    },
+    "Apple Scab": {
+      "symptoms": "Olive-green to brown velvety spots on leaves and fruit. Leaves may curl and drop.",
+      "cause": "Fungus Venturia inaequalis, spreads during wet cool weather in spring.",
+      "organic_treatment": "Sulfur dust 3 g/litre spray from green tip stage. Wettable sulfur every 7-10 days.",
+      "chemical_treatment": "Captan 50 WP 2 g/litre or Mancozeb 75 WP 2.5 g/litre from bud break, every 10-14 days.",
+      "prevention": "Rake and burn fallen leaves. Plant scab-resistant varieties (Enterprise, Liberty). Prune for air circulation.",
+      "severity_guide": "Low: a few spots on older leaves. Medium: spots on young leaves and fruit. High: premature leaf drop, deformed fruit — spray urgently."
+    },
+    "Healthy": {
+      "symptoms": "No disease symptoms. Leaves are green, firm, and well-formed.",
+      "cause": "No pathogen detected.",
+      "organic_treatment": "No treatment needed. Continue good cultural practices.",
+      "chemical_treatment": "No chemical treatment required.",
+      "prevention": "Maintain balanced nutrition, proper spacing, and good irrigation practices.",
+      "severity_guide": "Plant is healthy. Monitor weekly for any early signs of stress or disease."
+    }
+  },
+  "crop_care": {
+    "Wheat": {
+      "sowing_time": "November 1-25 (Punjab). October 15 - November 10 (UP/Bihar).",
+      "water_needs": "6-8 irrigations total. Critical stages: crown root (21 days), tillering, jointing, flowering, grain filling.",
+      "fertilizer": "DAP 50 kg + MOP 25 kg/acre at sowing. Urea 55 kg/acre split in 2 doses.",
+      "common_diseases": ["Yellow rust", "Brown rust", "Loose smut", "Karnal bunt"],
+      "harvest_time": "April (110-120 days after sowing). Harvest when 90% grains are hard."
+    },
+    "Rice": {
+      "sowing_time": "Nursery in May. Transplant June 10-30.",
+      "water_needs": "Maintain 2-5 cm standing water. Drain field 10 days before harvest.",
+      "fertilizer": "NPK 120:60:40 kg/hectare. Split urea: basal + tillering + panicle initiation.",
+      "common_diseases": ["Blast", "Brown spot", "Sheath blight", "Bacterial blight"],
+      "harvest_time": "September-October (120-145 days). Harvest when 80-85% grains are golden."
+    },
+    "Tomato": {
+      "sowing_time": "Nursery: June-July (Kharif) or Nov-Dec (Rabi). Transplant at 25-30 days.",
+      "water_needs": "Irrigate every 3-4 days. Avoid water stress at flowering and fruit set.",
+      "fertilizer": "NPK 120:60:60 kg/hectare. Top dress with urea at 30 and 60 days.",
+      "common_diseases": ["Early blight", "Late blight", "Fusarium wilt", "Leaf curl virus"],
+      "harvest_time": "60-90 days after transplanting. Harvest at mature green to light red stage for markets."
+    }
+  }
+}
